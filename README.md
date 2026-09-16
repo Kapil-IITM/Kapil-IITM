@@ -12,23 +12,37 @@
 
 <br/>
 
-## 🚀 About Me
+<div align="center">
 
-```yaml
-name: Kapil
-education: "BS Data Science @ IIT Madras"
-currently_exploring: ["Machine Learning", "Computer Vision", "Robotics", "IoT"]
-ask_me_about: ["Python", "Data Science", "ML", "Robotics", "Arduino/IoT"]
-fun_fact: "I'd rather debug a robot at 2 AM than leave a bug unsolved"
-reach_me_at: "heyitskapil712@gmail.com"
-```
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=0e75b6&height=70&section=header&text=About%20Me&fontSize=35&fontColor=0e75b6&fontAlignY=70&desc=&animation=fadeIn" width="60%"/>
 
-- 🎓 Currently pursuing a **BS in Data Science** at **IIT Madras**
-- 🌱 Diving deep into **Machine Learning, Computer Vision & Robotics**
-- 🛠️ Building hands-on **AI + IoT** projects that bridge software and hardware
-- 💬 Happy to talk **Python, ML, Data Science, Robotics & Electronics**
-- 📫 Reach me at **heyitskapil712@gmail.com**
-- ⚡ Fun fact: **I enjoy turning raw data and spare parts into working robots**
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+🎓 &nbsp; I'm currently pursuing a **BS in Data Science** at **IIT Madras**, chasing the point where math, code, and hardware meet.
+
+🤖 &nbsp; My playground right now is **Machine Learning, Computer Vision & Robotics** — I like teaching machines to *see, decide, and move*.
+
+⚙️ &nbsp; I build **AI + IoT** projects end-to-end: from training a model on my laptop to watching it run on an Arduino across the room.
+
+🧠 &nbsp; **Ask me about:** Python · Machine Learning · Data Science · Robotics · Arduino/IoT
+
+⚡ &nbsp; **Fun fact:** I'd rather debug a robot at 2 AM than leave a bug unsolved.
+
+📫 &nbsp; **Reach me:** heyitskapil712@gmail.com
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="0" height="0"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -75,22 +89,6 @@ reach_me_at: "heyitskapil712@gmail.com"
 </div>
 
 <br/>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kapil-iitm&theme=tokyonight&no-frame=true&row=1&column=7" />
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/kapil-iitm/kapil-iitm/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> ⚠️ The snake animation above needs a one-time GitHub Actions setup (I've noted this below) — until then it won't render.
 
 <div align="center">
 
