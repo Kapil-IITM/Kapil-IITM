@@ -60,7 +60,7 @@ Building practical robots and connected systems using **ESP32, sensors and embed
 Working on predictive models and data-driven applications using **Python, Pandas and Scikit-learn**.
 
 🧠 **AI & Computer Vision**
-Exploring how machines can **see, understand and interact with the real worl
+Exploring how machines can **see, understand and interact with the real world**.
 
 ---
 
