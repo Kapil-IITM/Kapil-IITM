@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏻👋, I'm Kapil </h1>
+<h1 align="center">Hi 👋, I'm Kapil </h1>
 
 <h3 align="center">
 BS Data Science @ IIT Madras · ML & Robotics Enthusiast · Building AI Projects 🤖
